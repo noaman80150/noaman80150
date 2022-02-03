@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @noaman80150
-- 👀 I’m interested in mamba mentality.
-- 🌱 I’m currently learning cloud computing, saas, and phython
-- 💞️ I’m looking to collaborate on project wreckless and anti meta.
+- 👋 Hi, I’m Nu'man!
+- 👀 I’m interested in culture, international affairs, arabic language and its literature. 
+- 🌱 I’m currently saas and phython.
+- 💞️ I’m looking to collaborate on whatever project it is that you guys over.
 - 📫 How to reach me via nunits11@yahoo.com
 
 <!---
