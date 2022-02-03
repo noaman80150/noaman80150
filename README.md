@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nu'man!
 - 👀 I’m interested in culture, international affairs, arabic language and its literature. 
-- 🌱 I’m currently saas and phython.
+- 🌱 I’m currently learning saas and phython.
 - 💞️ I’m looking to collaborate on whatever project it is that you guys over.
 - 📫 How to reach me via nunits11@yahoo.com
 
